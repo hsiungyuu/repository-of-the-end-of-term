@@ -1,5 +1,5 @@
-# repository-of-the-end-of-term
-in order to get the terminal grade 
+# repository-of-the-terminal-
+## in order to get the terminal grade 
 
 ```
 #include <Servo.h>
