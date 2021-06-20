@@ -1,4 +1,4 @@
-# repository-of-the-end-oterm
+# repository-of-the-end-of-term
 in order to get the terminal grade 
 
 ```arduino
