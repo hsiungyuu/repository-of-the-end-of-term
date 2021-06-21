@@ -1,7 +1,7 @@
 # repository-of-the-terminal-report
 ## in order to get the terminal grade 
 
-```
+``` arduino
 #include <Servo.h>
 Servo topleftservo,toprightservo,Spinservo,launchservo;
 int fortopl,fortopr,forlaunch;
